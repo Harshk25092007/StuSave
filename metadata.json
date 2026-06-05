@@ -1,0 +1,6 @@
+{
+  "name": "Student Expense & Savings Planner",
+  "description": "An interactive expense tracker and budget planner designed for students to manage budgets, set saving goals, log transactions, and get custom AI financial advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
